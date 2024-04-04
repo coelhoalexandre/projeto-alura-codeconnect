@@ -1,41 +1,54 @@
+<h1 align="center"> Projeto Cine Tag </h1>
 
-![Capa do repositório do curso, contendo no canto superior esquerdo o símbolo do github com o texto /alura-cursos, e no direito o logo da alura. Abaixo possuímos o título React: componentes e JSX com o subtítulo aprendendo a construir componentes reutilizáveis. Por fim, no canto inferior direito, há o logo da escola de front-end.](https://imgur.com/n21Gypa.png)
+<div align="center">
 
-# CodeConnect
+  <a href="https://github.com/coelhoalexandre/projeto-alura-cinetag/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
 
-Rede social para pessoas desenvolvedoras chamada CodeConnect para o curso de React: componentes e JSX.
+</div>
 
-## 🔨 Funcionalidades do projeto
+## Sumário
 
-Nesse curso será desenvolvido a página de login da CodeConnect, contendo uma imagem, um formulário de e-mail e senha com títulos e textos, um botão para entrar na aplicação, links para lembrar senha ou cadastrar.
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Objetivos do Projeto](#objetivos-do-projeto)
+- [Funcionalidades do Projeto](#funcionalidades-do-projeto)
+- [Tecnologias Utilizadas](#tecnolgias-utilizadas)
+- [Layouts](#layouts)
+- [Autor](#autor)
 
-## ✔️ Técnicas e tecnologias utilizadas
+## Sobre o Projeto
 
-As técnicas e tecnologias utilizadas pra isso são:
+Projeto do curso [React: construíndo componentes com JSX](https://cursos.alura.com.br/course/react-construindo-componentes-jsx), instruido por [**Mônica Hillman**](https://github.com/MonicaHillman). Esse projeto foi o básico para entender e iniciar React.
 
-- `React`: Biblioteca JavaScript para construção de interfaces de usuário.
-- `React-DOM`: Pacote que permite a integração do React com a árvore de elementos do DOM.
-- `Babel`: Transpilador que converte código JavaScript moderno em versões compatíveis com navegadores mais antigos, além de permitir a interpretação de códigos JSX.
-- `JSX`: Uma extensão de sintaxe para JavaScript usada no React, que permite a escrita de código HTML/XML de forma declarativa e integrada dentro do JavaScript.
-- `Componentização`: Abordagem de design em que a interface de usuário é dividida em componentes reutilizáveis e independentes.
-- `Props`: Dados passados de um componente pai para um componente filho no React.
-- `useState`: Hook no React que permite adicionar estado a componentes funcionais.
-- `Manipulação de eventos`: Ação de responder a interações do usuário, como cliques e teclas pressionadas, em aplicações web.
+## Objetivos do Projeto
 
-## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/MonicaHillman/3492-React-componentesi/tree/projeto-base) ou [baixá-lo](https://github.com/MonicaHillman/3492-React-componentes/archive/refs/heads/projeto-base.zip).
+## Funcionalidades do Projeto
 
-## 🎨 Figma
 
-Você pode conferir o Figma da aplicação clicando [aqui](https://www.figma.com/file/SASyBm2k3IlqrO8qI1Otg1/CodeConnect-%7C-React%3A-Componentização-e-conceitos-básicos-(JSX)).
+## Tecnolgias Utilizadas
 
-## 🛠️ Abrir e rodar o projeto
+1. HTML
+2. CSS
+3. JS
+4. React
 
-Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, na tela inicial da aplicação, vá em File / Arquivos e:
+## Layouts
 
-- **Open Folder** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
+**Não encontrada:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/cine-tag-nao-encontrado-1280px.jpg
 
-Você pode abrir diretamente o arquivo index.html no seu navegador ou usar uma extensão como o ``Live Server``.
+## Autor
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. 
+
+Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
+
+<br>
+
+<br>
+
+<div align="center">
+
+<a href = "https://github.com/coelhoalexandre"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+<a href="https://www.linkedin.com/in/-coelhoalexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href = "mailto:alexandrecoelhocontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail Badge"></a>
+<a href = "https://cursos.alura.com.br/user/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Alura-0747a6?style=for-the-badge&logo=alura&logoColor=white" target="_blank" alt="Alura Badge"></a>
+<a href = "https://www.frontendmentor.io/profile/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-white?style=for-the-badge&logo=frontendmentor&logoColor=blue" alt="FrontEnd Mentor Badge">
