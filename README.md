@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Cine Tag </h1>
+<h1 align="center"> Projeto CodeConnect </h1>
 
 <div align="center">
 
