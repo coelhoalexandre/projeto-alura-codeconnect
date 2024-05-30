@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/coelhoalexandre/projeto-alura-cinetag/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
+  <a href="https://github.com/coelhoalexandre/projeto-alura-codeconnect/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
 
 </div>
 
@@ -10,9 +10,7 @@
 
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Objetivos do Projeto](#objetivos-do-projeto)
-- [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
-- [Layouts](#layouts)
 - [Autor](#autor)
 
 ## Sobre o Projeto
@@ -21,9 +19,11 @@ Projeto do curso [React: construíndo componentes com JSX](https://cursos.alura.
 
 ## Objetivos do Projeto
 
-
-## Funcionalidades do Projeto
-
+- Aprender o que é e como estruturar uma página de login usando componentes React;
+- Fazer a manipulação de eventos para interações do usuário com a interface;
+- Realizar a integração das bibliotecas React, React DOM e da ferram1enta Babel no seu projeto via CDN;
+- Gerencare estados através do useState;
+- Transformar componentes em dinâmicos com props e props children.
 
 ## Tecnolgias Utilizadas
 
@@ -31,10 +31,6 @@ Projeto do curso [React: construíndo componentes com JSX](https://cursos.alura.
 2. CSS
 3. JS
 4. React
-
-## Layouts
-
-**Não encontrada:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/cine-tag-nao-encontrado-1280px.jpg
 
 ## Autor
 Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. 
